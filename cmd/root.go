@@ -10,6 +10,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/jraman567/evcli/v2/cmd/cca"
 	"github.com/jraman567/evcli/v2/cmd/psa"
+	"github.com/jraman567/evcli/v2/cmd/sev"
 
 	"github.com/spf13/viper"
 )
@@ -40,6 +41,7 @@ func init() {
 
 	rootCmd.AddCommand(psa.Cmd)
 	rootCmd.AddCommand(cca.Cmd)
+	rootCmd.AddCommand(sev.Cmd)
 }
 
 // initConfig reads in config file and ENV variables if set
