@@ -3,7 +3,9 @@ module github.com/jraman567/evcli/v2
 go 1.17
 
 require (
+	github.com/fxamacker/cbor/v2 v2.7.0
 	github.com/golang/mock v1.6.0
+	github.com/jraman567/tokens v1.5.0
 	github.com/lestrrat-go/jwx/v2 v2.0.8
 	github.com/spf13/afero v1.8.2
 	github.com/spf13/cobra v1.4.0
@@ -19,7 +21,6 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.1.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
-	github.com/fxamacker/cbor/v2 v2.4.0 // indirect
 	github.com/goccy/go-json v0.10.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
