@@ -3,7 +3,9 @@ module github.com/jraman567/evcli/v2
 go 1.17
 
 require (
+	github.com/fxamacker/cbor/v2 v2.4.0
 	github.com/golang/mock v1.6.0
+	github.com/jraman567/tokens v0.0.6
 	github.com/lestrrat-go/jwx/v2 v2.0.8
 	github.com/spf13/afero v1.8.2
 	github.com/spf13/cobra v1.4.0

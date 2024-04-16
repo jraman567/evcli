@@ -1,4 +1,4 @@
-// Copyright 2022 Contributors to the Veraison project.
+// Copyright 2024 Contributors to the Veraison project.
 // SPDX-License-Identifier: Apache-2.0
 
 package cmd
@@ -11,6 +11,7 @@ import (
 	"github.com/jraman567/evcli/v2/cmd/cca"
 	"github.com/jraman567/evcli/v2/cmd/psa"
 	"github.com/jraman567/evcli/v2/cmd/sev"
+	"github.com/jraman567/evcli/v2/cmd/sevsnp"
 
 	"github.com/spf13/viper"
 )
@@ -42,6 +43,7 @@ func init() {
 	rootCmd.AddCommand(psa.Cmd)
 	rootCmd.AddCommand(cca.Cmd)
 	rootCmd.AddCommand(sev.Cmd)
+	rootCmd.AddCommand(sevsnp.Cmd)
 }
 
 // initConfig reads in config file and ENV variables if set
