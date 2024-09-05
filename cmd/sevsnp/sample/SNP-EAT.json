@@ -2,6 +2,8 @@
     "profile": "oci-amd-snp",
     "evidence": {
 	"snp-nonce": "BwYFBAMCAQAPDg0MCwoJCBcWFRQTEhEQHx4dHBsaGRg=",
+	"snp-attester-pub-key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCjCmPoWENtId6wPkhv6j+J7I+iVY/ChDJLSTR1cBJ6Nyo/DWRiRa9peO90JAA9CJZIZFphomL46sKoHyftfGDAqri8KT+z9PL+IRFawPfoRhngXkzTXLHO7BhHne2/s8smsqWQMwDMXByBGCLXe/IXHcX/m8GN9QsLdPjyI5wAQ4r/3KXhXAH+O1+EBwwKd8stbPaPr1Xt5Rr9RcI2hN7mTHDIN2r4QWN8IiI8spotEdFfDybc0iJbjkXVpFrTNJetzYWa1aFDBAp0ErGQKSjU1L8WGgAmjJqmVmZvIminPLUlc/qJHOnVmGkUBIoAdF0R1jgRcZN9eyon3TzcID9Ja1BnNQiMnl0KoAdUGXhzhqPe6dpdZrTL/6WyBvMjLItqNET0BSnAxPTzfTspLnj3eqa6bPgqg3ezsTOfT1DmDs++tRMfEJSxtj/VJRdzQ7MZG7WObuE5BgWfwCWxK5M1WHYBkOvtw7GQpJbgjRIzM0Dycyu2BSpELhWsTwg71qs= root@localhost.localdomain\n",
+	"snp-nonce": "BwYFBAMCAQAPDg0MCwoJCBcWFRQTEhEQHx4dHBsaGRg=",
         "snp-uniqueid": "ocid1.instance.oc1.iad.anuwcljtgj4tlxyc2qynampt2antt6bbyldrbwdc23ol3brlhlvyd6seauoq",
         "snp-evidence-timestamp":"2024-04-12T10:59:11.753412572-04:00",
         "snp-keys": {

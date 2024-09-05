@@ -242,6 +242,8 @@ github.com/inconshreveable/mousetrap v1.0.0 h1:Z8tu5sraLXCXIcARxBp/8cbvlwVa7Z1NH
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
 github.com/jraman567/tokens v0.0.6 h1:WDQchtdj/qo5B9LDXAQgb+rKLNz7+Hr48EbbWmPjccg=
 github.com/jraman567/tokens v0.0.6/go.mod h1:QM1PCcxuD2jsppYfJpoOcGGqUgJm9/l/dzBP7BDC3XE=
+github.com/jraman567/tokens v0.0.16 h1:Ru8m3YLCWbasm0lamkUboG///HUt1CtY1Kth9Be3NGA=
+github.com/jraman567/tokens v0.0.16/go.mod h1:QM1PCcxuD2jsppYfJpoOcGGqUgJm9/l/dzBP7BDC3XE=
 github.com/json-iterator/go v1.1.6/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
 github.com/json-iterator/go v1.1.9/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
 github.com/json-iterator/go v1.1.11/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
